@@ -1,5 +1,5 @@
 Integrantes 
 Gustavo Fernandes Vieira 
 Saulo Inácio José
-João Victor Guimaraês Santos
+João Vitor Guimaraês Santos
 Pedro Henrique Antero Pereira 
